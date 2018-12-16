@@ -1,11 +1,11 @@
 /*
- * Cairn Allumni Database
+ * College Allumni Database
  * Jonathin Risoldi, ManOverTheRainbow, Shay Walker, Tyler Carrier, Romeo Sturkey
  * 23 March 2018
  * MS SQL Server 2017
  */
  
-CREATE DATABASE CairnAlumniDB; --You can use GUI if you so desire, or call it something else if need be
+CREATE DATABASE AlumniDB; --You can use GUI if you so desire, or call it something else if need be
 
  --Create users and give them permissions through the GUI based on who needs what ammount of access
  
